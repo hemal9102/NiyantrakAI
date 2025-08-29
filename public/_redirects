@@ -1,0 +1,5 @@
+# Handle client-side routing
+/*    /index.html   200
+
+# Proxy Google Analytics to avoid ad blockers
+/analytics/* https://www.google-analytics.com/:splat 200
